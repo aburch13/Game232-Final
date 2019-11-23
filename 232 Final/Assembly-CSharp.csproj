@@ -62,7 +62,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\HurtBox.cs" />
     <Compile Include="Assets\Scripts\Footbox.cs" />
+    <Compile Include="Assets\Scripts\LevelMovement.cs" />
     <Compile Include="Assets\Scripts\Soul.cs" />
     <Compile Include="Assets\Scripts\TapSwipe.cs" />
     <Reference Include="Unity.Timeline.Editor">
